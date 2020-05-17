@@ -1,4 +1,4 @@
-# Default WonderCMS theme 2020
+# Violet theme
 Fully responsive.
 
 ## Preview
