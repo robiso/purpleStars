@@ -28,7 +28,7 @@
 		<?= $Wcms->css() ?>
 
 		<!-- Theme CSS -->
-		<link rel="stylesheet" rel="preload" as="style" href="<?= $Wcms->asset('css/style.css') ?>">
+		<link rel="stylesheet" href="<?= $Wcms->asset('css/style.css') ?>">
 	</head>
 
 	<body class="d-flex flex-column">
