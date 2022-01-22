@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "violet": {
+            "name": "Violet",
+            "repo": "https://github.com/robiso/violet/tree/master",
+            "zip": "https://github.com/robiso/violet/archive/master.zip",
+            "summary": "Violet theme",
+            "version": "3.2.0",
+            "image": "https://raw.githubusercontent.com/robiso/violet/master/preview.jpg"
+        }
+    }
+}
